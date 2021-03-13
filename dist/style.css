@@ -6,9 +6,8 @@ background: radial-gradient(circle, rgba(110,134,255,1) 0%, rgba(255,110,139,1) 
 body {
   font: 14px "Century Gothic", Futura, sans-serif;
   display: flex;
-  //flex-direction:column; 
   margin: auto;
-  width: 70%;
+  width: 100%;
   justify-content: center;
   align-items: center;
   
@@ -20,6 +19,10 @@ body {
   color: white;
   margin-top: 20px;
   text-align: center;
+}
+
+a{
+  color: rgb(255, 251, 43);
 }
 
 ol, ul {
