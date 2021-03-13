@@ -12,7 +12,7 @@ class Footer extends React.Component {
   render() {
     return /*#__PURE__*/(
       React.createElement("div", { className: "footer" }, /*#__PURE__*/
-      React.createElement("h3", null, "Developed by ", /*#__PURE__*/React.createElement("a", { href: "https://www.mayankkhare.cf" }, /*#__PURE__*/React.createElement("strong", null, "Mayank Khare")))));
+      React.createElement("h3", null, "Developed by ", /*#__PURE__*/React.createElement("a", { href: "https://mayankkhare.cf" }, /*#__PURE__*/React.createElement("strong", null, "Mayank Khare")))));
 
 
 
